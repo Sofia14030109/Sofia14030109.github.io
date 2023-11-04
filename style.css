@@ -1,0 +1,10 @@
+h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: blueviolet;
+}
+body{
+  background-image: linear-gradient(45deg, rgb(168, 33, 168), rgb(218, 195, 148));
+}
+li{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
